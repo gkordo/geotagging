@@ -23,7 +23,10 @@ The procedure for the final estimation of the location of the query images is th
 
 <h3>Instructions</h3>
 
-All necessary argument are given in the file <a href="https://github.com/gkordo/GeoTag/blob/master/config.properties">config.properties</a>. The format of the records in the dataset that are given as training or test set have to be the following.
+In order to make possible to run the project you have to set all necessary argument in the file <a href="https://github.com/gkordo/GeoTag/blob/master/config.properties">config.properties</a>. 
+
+_Input File Format_
+The dataset's records, that are given as training or test set, have to be in the following format.
 
 				imageID, userID, lat, lon, tags
 				
@@ -34,7 +37,7 @@ lon: image's longitude.<br>
 tags: image's tags.
 
 _Used Libraries_	
-In order to make possible to run the project you need the libraries bellow:<br>
+Also, you need the libraries bellow:<br>
 	1. <a href="https://code.google.com/p/kmeansclustering/downloads/detail?name=kmeansclustering.zip&can=2&q=">K-means</a><br>
 	2. <a href="http://jgibblda.sourceforge.net/">LDA</a>
 
