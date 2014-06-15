@@ -34,9 +34,9 @@ lon: image's longitude.<br>
 tags: image's tags.
 
 _Used Libraries_	
-In order to make possible to run the project you need the libraries bellow:
-1. <a href="https://code.google.com/p/kmeansclustering/downloads/detail?name=kmeansclustering.zip&can=2&q=">K-means</a><br>
-2. <a href="http://jgibblda.sourceforge.net/">LDA</a>
+In order to make possible to run the project you need the libraries bellow:<br>
+	1. <a href="https://code.google.com/p/kmeansclustering/downloads/detail?name=kmeansclustering.zip&can=2&q=">K-means</a><br>
+	2. <a href="http://jgibblda.sourceforge.net/">LDA</a>
 
 
 <h3>Contact for further details about the project</h3>
