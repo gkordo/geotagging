@@ -41,5 +41,5 @@ In order to make possible to run the project you need the libraries bellow:
 
 <h3>Contact for further details about the project</h3>
 
-Giorgos Kordopatis-Zilos (georgekordopatis@hotmail.com)
+Giorgos Kordopatis-Zilos (georgekordopatis@hotmail.com)<br>
 Symeon Papadopoulos (papadop@iti.gr)
