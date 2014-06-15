@@ -4,6 +4,7 @@ GeoTag
 This is the implementation of the CERTH team's project in the Placing task of MediaEval Benchmarking 2013. The project's paper can be found <a href="http://ceur-ws.org/Vol-1043/mediaeval2013_submission_22.pdf">here</a>.
 
 
+
 <h2>Main Method</h2>
 
 This is an tag-based method, in which a complex geographical-tag model is built from the tags and locations of the images of the training set, in order to estimate the location of each query image. The implemented approach comprises three steps.
@@ -19,6 +20,7 @@ The procedure for the final estimation of the location of the query images is th
 * Compute the Jaccard similarity between this set of tags and the set of tags for each topic of each local LDA.
 * Assign the query image to the area with either the highest similarity with any local topic or the highest mean similarity of the topics of each area.
 * Determine the most similar training images using Jaccard similarity and use their center-of-gravity.
+
 
 
 <h3>Instructions</h3>
@@ -42,6 +44,7 @@ Also, you need the libraries bellow:<br>
 	2. <a href="http://jgibblda.sourceforge.net/">LDA</a>
 
 
+	
 <h3>Contact for further details about the project</h3>
 
 Giorgos Kordopatis-Zilos (georgekordopatis@hotmail.com)<br>
