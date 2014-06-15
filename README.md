@@ -25,7 +25,7 @@ The procedure for the final estimation of the location of the query images is th
 
 In order to make possible to run the project you have to set all necessary argument in the file <a href="https://github.com/gkordo/GeoTag/blob/master/config.properties">config.properties</a>. 
 
-_Input File Format_
+_Input File Format_		
 The dataset's records, that are given as training or test set, have to be in the following format.
 
 				imageID, userID, lat, lon, tags
