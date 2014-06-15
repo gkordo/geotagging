@@ -27,15 +27,15 @@ All necessary argument are given in the file <a href="https://github.com/gkordo/
 
 				imageID, userID, lat, lon, tags
 				
-imageID: the ID of the image.
-userID: the ID of the user that uploaded the image.
-lat: image's latitude.
-lon: image's longitude.
+imageID: the ID of the image.<br>
+userID: the ID of the user that uploaded the image.<br>
+lat: image's latitude.<br>
+lon: image's longitude.<br>
 tags: image's tags.
 
 _Used Libraries_	
 In order to make possible to run the project you need the libraries bellow:
-1. <a href="https://code.google.com/p/kmeansclustering/downloads/detail?name=kmeansclustering.zip&can=2&q=">K-means</a>
+1. <a href="https://code.google.com/p/kmeansclustering/downloads/detail?name=kmeansclustering.zip&can=2&q=">K-means</a><br>
 2. <a href="http://jgibblda.sourceforge.net/">LDA</a>
 
 
